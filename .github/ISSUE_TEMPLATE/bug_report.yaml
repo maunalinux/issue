@@ -6,8 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Please read this first
-        Before reporting an issue, make sure it is not in our [Development Management](https://github.com/orgs/ghostbsd/projects/4/views/12).
+        ### Please read this first        
 
         Follow these tips to help us understand your issue.
         * Only one issue per report
@@ -21,7 +20,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Use App menu > System Tools > Mate System Monitor and on the System Monitor window click System Tab
+      description: Use App menu > Preferences > About this computer
       placeholder: "22.08"
     validations:
       required: true
