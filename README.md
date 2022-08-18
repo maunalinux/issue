@@ -1,4 +1,4 @@
-# Issue / Questão
+# Issue / Problema
 Report a Bug or Request a new Feature. / Relate um bug ou solicite um novo recurso.
 
 ### Need Help? / Necessita de Ajuda?
