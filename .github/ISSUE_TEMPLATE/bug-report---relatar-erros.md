@@ -1,14 +1,14 @@
 ---
 name: Bug Report / Relatar Erros
 about: Create a report to help us improve / Crie um relatório para nos ajudar a melhorar
-title: ''
+title: "[BUG] <title>"
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug / Descreva o Erro**
+A clear and concise description of what the bug is. / Uma descrição clara e concisa do que é o bug.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -17,22 +17,16 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected behavior / Comportamento esperado**
+A clear and concise description of what you expected to happen. / Uma descrição clara e concisa do que você esperava que acontecesse.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your problem. / Se possível, adicione capturas de tela para ajudar a explicar seu problema.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Desktop:**
+ - Desktop: [e.g. MATE, LXQt]
+ - Browser/Navegador [e.g. chrome, safari]
+ - Version/Versão [e.g. 22.08]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional context / Informações Adicionais**
+Add any other context about the problem here. / Adicione qualquer outro informação adicional sobre o problema aqui.
