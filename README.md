@@ -9,7 +9,7 @@ The best ways to get help are on: / As melhores formas de obter ajuda são:
 
 ### Need to report a issue or request a new feature? / Precisa relatar um problema ou solicitar um novo recurso?
 
-:bug: Report a Bug/ Relate um Erro --> [here / aqui](https://github.com/amaroklinux/issue/issues/new?assignees=&labels=bug)
+:bug: Report a Bug/ Relate um Erro --> [here / aqui](https://github.com/amaroklinux/issue/issues/new?assignees=&labels=bug&template=bug_report.yaml&title=[BUG]+%3Ctitle%3E)
 
 :sparkles: Request a New Feature / Solicite um Novo Recurso --> [here / aqui](https://github.com/amaroklinux/issue/issues/new?assignees=&labels=feature)
 
