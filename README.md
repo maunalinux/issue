@@ -5,7 +5,7 @@ Report a Bug or Request a new Feature. / Relate um bug ou solicite um novo recur
 The best ways to get help are on: / As melhores formas de obter ajuda são:
 
 * [Telegram](https://t.me/AmarokLinux)
-* [Forum Amarok Linux](https://amaroklinux.forumeiros.com)
+* [Forum Amarok Linux](https://forum.amaroklinux.org)
 
 ### Need to report a issue or request a new feature? / Precisa relatar um problema ou solicitar um novo recurso?
 
