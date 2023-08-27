@@ -21,7 +21,7 @@ body:
     attributes:
       label: Version
       description: Use App menu > Preferences > About this computer
-      placeholder: "22.08"
+      placeholder: "23.9"
     validations:
       required: true
   - type: textarea

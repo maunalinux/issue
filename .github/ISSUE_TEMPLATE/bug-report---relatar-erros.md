@@ -24,9 +24,9 @@ A clear and concise description of what you expected to happen. / Uma descriçã
 If applicable, add screenshots to help explain your problem. / Se possível, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop:**
- - Desktop: [e.g. MATE, LXQt]
+ - Desktop: [e.g. Cinnamon, MATE, LXQt]
  - Browser/Navegador [e.g. chrome, safari]
- - Version/Versão [e.g. 22.08]
+ - Version/Versão [e.g. 23.9]
 
 **Additional context / Informações Adicionais**
 Add any other context about the problem here. / Adicione qualquer outro informação adicional sobre o problema aqui.
